@@ -21,8 +21,20 @@ The goal of this project is to create a web-based application that:
 - **Columns**:
   - "v1": Label ("ham" or "spam")
   - "v2": Message content (text)
+ 
+ Evaluation :
 
-After preprocessing, we used:
+1. Classification Report:
+
+   ![Screenshot 2025-06-01 190945](https://github.com/user-attachments/assets/cc75b5c3-eaa3-4090-ae83-50b6e7d48fb2)
+
+2. Confusion Matrix:
+
+   ![Screenshot 2025-06-01 191012](https://github.com/user-attachments/assets/461c3de4-cc72-46ae-ab6a-9179b80eb691)
+
+
+ 
+ After preprocessing, we used:
 
 - "message": cleaned and lowercased
 - "label_num": numeric version of "ham" (0) and "spam" (1)

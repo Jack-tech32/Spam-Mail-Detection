@@ -4,6 +4,7 @@ import joblib
 import re
 import string
 
+
 # Load trained model and vectorizer
 model = joblib.load("spam_model.pkl")
 vectorizer = joblib.load("tfidf_vectorizer.pkl")

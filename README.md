@@ -101,7 +101,7 @@ Application Overview ::
 
 Author
 
-Name: Jayesh Sanjay Patil // USERNAME git : ["Jack-tech32"]
+Name: Jayesh Sanjay Patil // USERNAME git : "Jack-tech32"
 
 Final Year Engineering Student [B Tech]
 

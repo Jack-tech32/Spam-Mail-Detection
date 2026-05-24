@@ -6,7 +6,7 @@ Interactive Application Link ::   https://spam-mail-detection-w2xojn5ida5a6awclk
 This project is an end-to-end machine learning application that detects whether a given message is **spam or not** using Natural Language Processing (NLP) and a trained classification model. 
 Built with Python, scikit-learn, and Streamlit, it's designed to be simple, clean, and interactive.
 
- Project Overview
+ Project Overview 
 
 The goal of this project is to create a web-based application that:
 - Accepts any text input (like an email or SMS)

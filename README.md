@@ -68,7 +68,7 @@ locally run the app on the localhost
 Requirements
 Install dependencies:
 
-requirements.txt file 
+requirements.txt file ( All required libraries present here )
 
 command for run app on localhost using streamlit library:
 
